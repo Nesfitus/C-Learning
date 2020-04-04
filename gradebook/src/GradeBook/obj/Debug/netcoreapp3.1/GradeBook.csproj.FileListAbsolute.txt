@@ -1,0 +1,13 @@
+E:\Workspace\CSharpLearning\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.exe
+E:\Workspace\CSharpLearning\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.deps.json
+E:\Workspace\CSharpLearning\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.json
+E:\Workspace\CSharpLearning\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.dev.json
+E:\Workspace\CSharpLearning\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.dll
+E:\Workspace\CSharpLearning\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.pdb
+E:\Workspace\CSharpLearning\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csprojAssemblyReference.cache
+E:\Workspace\CSharpLearning\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.CoreCompileInputs.cache
+E:\Workspace\CSharpLearning\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfoInputs.cache
+E:\Workspace\CSharpLearning\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfo.cs
+E:\Workspace\CSharpLearning\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
+E:\Workspace\CSharpLearning\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
+E:\Workspace\CSharpLearning\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.genruntimeconfig.cache
